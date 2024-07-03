@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511187741190",
+    "project_id": "volmore-d3502",
+    "storage_bucket": "volmore-d3502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511187741190:android:5034b97192ddf860e0f187",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTa5ZtwNM5Oq-pV8SlaznsqWMpw_O-5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
